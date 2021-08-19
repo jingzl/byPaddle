@@ -1,2 +1,2 @@
 # byPaddle
-all thing by paddlepaddle
+all things by paddlepaddle
